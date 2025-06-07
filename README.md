@@ -1,9 +1,4 @@
-# raj-demo
-This is a Demo for  Git &amp; Github class
+# Spotify-Clone
+A Frontend Project
 
 
-# Teacher
-Raj Bind
-
-# Student 
-Harsh kumbhar
